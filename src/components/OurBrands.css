@@ -1,0 +1,20 @@
+.wrapper {
+  overflow: hidden;
+}
+
+.imageContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+  width: 200%;
+}
+
+.image {
+  height: 100px;
+  width: auto;
+}
+
+.image img {
+  height: 100%;
+  width: auto;
+}
